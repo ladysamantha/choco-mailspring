@@ -1,0 +1,1 @@
+﻿# choco-mailspring (mailspring)
