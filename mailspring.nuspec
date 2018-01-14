@@ -47,7 +47,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <docsUrl>https://foundry376.zendesk.com/hc/en-us</docsUrl>
     <mailingListUrl>https://join-mailspring-slack.herokuapp.com/</mailingListUrl>
     <bugTrackerUrl>https://github.com/Foundry376/Mailspring/issues</bugTrackerUrl>
-    <tags>mailspring SPACE_SEPARATED</tags>
+    <tags>mailspring email nylas</tags>
     <summary>A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.</summary>
     <description>
     <![CDATA[
